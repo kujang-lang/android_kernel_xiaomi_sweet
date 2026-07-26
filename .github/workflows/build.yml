@@ -1,4 +1,4 @@
-name: Bikin Kujang Kernel
+name: Build Kujang Kernel
 
 on:
   workflow_dispatch:
