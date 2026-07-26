@@ -1,0 +1,4 @@
+name: Build Kujang Kernel
+
+on:
+  workflow_dispatch:
